@@ -1,0 +1,123 @@
+.chat-drawer {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  justify-content: flex-end;
+  z-index: 1400;
+}
+
+.chat-drawer__scrim {
+  flex: 1;
+  background: rgba(12, 32, 85, 0.55);
+  border: none;
+  cursor: pointer;
+}
+
+.chat-drawer__panel {
+  width: clamp(320px, 33vw, 420px);
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: -24px 0 45px rgba(12, 32, 85, 0.18);
+}
+
+.chat-drawer__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.5rem;
+  border-bottom: 1px solid rgba(12, 32, 85, 0.08);
+}
+
+.chat-drawer__header h2 {
+  margin: 0;
+  color: #0c2055;
+  font-size: 1.25rem;
+}
+
+.chat-drawer__header p {
+  margin: 0.35rem 0 0;
+  color: #4a5672;
+  font-size: 0.95rem;
+}
+
+.chat-drawer__close {
+  border: none;
+  background: transparent;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #4a5672;
+}
+
+.chat-drawer__body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.5rem;
+  display: grid;
+  gap: 0.75rem;
+  background: #f7f9fc;
+}
+
+.chat-drawer__message {
+  padding: 0.875rem 1rem;
+  border-radius: 12px;
+  max-width: 85%;
+  line-height: 1.5;
+  font-size: 0.95rem;
+}
+
+.chat-drawer__message--assistant {
+  background: #ffffff;
+  color: #0c2055;
+  border: 1px solid rgba(12, 32, 85, 0.1);
+}
+
+.chat-drawer__composer {
+  border-top: 1px solid rgba(12, 32, 85, 0.1);
+  padding: 1.25rem 1.5rem;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.chat-drawer__composer-label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #8390a7;
+}
+
+.chat-drawer__composer-row {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-end;
+}
+
+.chat-drawer__composer-row textarea {
+  flex: 1;
+  resize: none;
+  border-radius: 12px;
+  border: 1px solid rgba(12, 32, 85, 0.15);
+  padding: 0.75rem 1rem;
+  font-family: inherit;
+  font-size: 0.95rem;
+  min-height: 3rem;
+}
+
+.chat-drawer__composer-row button {
+  border: none;
+  border-radius: 10px;
+  padding: 0.75rem 1.25rem;
+  background: #0c2055;
+  color: #ffffff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.chat-drawer__composer-row button:hover,
+.chat-drawer__composer-row button:focus {
+  background: #376bb3;
+}

@@ -1,0 +1,25 @@
+.chat-launcher {
+  position: fixed;
+  bottom: 1.75rem;
+  right: 1.75rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  border: none;
+  background: linear-gradient(135deg, #0c2055, #376bb3);
+  color: #ffffff;
+  font-size: 1.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 18px 30px rgba(12, 32, 85, 0.32);
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  z-index: 1500;
+}
+
+.chat-launcher:hover,
+.chat-launcher:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 22px 40px rgba(12, 32, 85, 0.4);
+}
