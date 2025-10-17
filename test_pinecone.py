@@ -1,4 +1,7 @@
-"""THIS IS A SAMPLE PINECONE DATABASE WITH DENSE VECTORS USING MOCK DATA"""
+"""
+THIS IS A SAMPLE PINECONE DATABASE WITH DENSE VECTORS USING MOCK DATA
+taken from https://docs.pinecone.io/guides/get-started/quickstart?retry=2
+"""
 from pinecone import Pinecone
 import time
 import json
