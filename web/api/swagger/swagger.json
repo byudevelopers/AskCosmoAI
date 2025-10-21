@@ -5,6 +5,35 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/AI/ask": {
+      "get": {
+        "tags": [
+          "AI"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/AIResponseDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AIResponseDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AIResponseDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Home": {
       "get": {
         "tags": [
@@ -35,5 +64,22 @@
       }
     }
   },
-  "components": { }
+  "components": {
+    "schemas": {
+      "AIResponseDTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "response": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
 }
