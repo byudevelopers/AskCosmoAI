@@ -1,8 +1,11 @@
+using api.services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IAIService, MockAIService>();
 
 builder.Services.AddCors(options =>
 {

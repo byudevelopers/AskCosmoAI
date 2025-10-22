@@ -1,15 +1,18 @@
 using api.Models.DTO;
+using api.services;
 using Microsoft.AspNetCore.Mvc;
 namespace api.Controllers;
 
 
 [ApiController]
 [Route("api/[controller]")]
-public class AIController : Controller
+public class AIController(IAIService aiService) : Controller
 {
-    [HttpGet("ask")]
-    public AIResponseDTO Ask()
+    private readonly IAIService _aiService = aiService;
+
+    [HttpPost("ask")]
+    public async Task<AIResponseDTO> Ask([FromBody] AIRequestDTO request)
     {
-        return new AIResponseDTO(123, "This is a sample AI response!!!");
+        return await _aiService.GetResponseAsync(request);
     }
 }

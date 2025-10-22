@@ -6,10 +6,29 @@
   },
   "paths": {
     "/api/AI/ask": {
-      "get": {
+      "post": {
         "tags": [
           "AI"
         ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AIRequestDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AIRequestDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AIRequestDTO"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK",
@@ -66,6 +85,16 @@
   },
   "components": {
     "schemas": {
+      "AIRequestDTO": {
+        "type": "object",
+        "properties": {
+          "prompt": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "AIResponseDTO": {
         "type": "object",
         "properties": {
