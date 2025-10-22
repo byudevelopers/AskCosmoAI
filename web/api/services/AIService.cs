@@ -17,3 +17,14 @@ public class MockAIService : IAIService
         ));
     }
 }
+
+public class AIService : IAIService
+{
+    public Task<AIResponseDTO> GetResponseAsync(AIRequestDTO request)
+    {
+        return Task.FromResult(new AIResponseDTO(
+            1,
+            $"This is the real AI service: '{request.Prompt}'"
+        ));
+    }
+}
