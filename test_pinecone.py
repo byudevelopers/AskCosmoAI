@@ -41,11 +41,12 @@ time.sleep(10)
 
 #view stats for the index
 stats = dense_index.describe_index_stats()
-print("\n" + stats)
+print("\n") 
+print(stats)
 
 #========== sample query that returns top 3 most relevant text in database ==========
 # Define the query
-query = "how many nuerons does the brain have"
+query = "when was the airplane invented"
 
 # Search the dense index
 results = dense_index.search(
