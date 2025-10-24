@@ -4,6 +4,31 @@ export type ClientOptions = {
     baseUrl: `${string}://${string}` | (string & {});
 };
 
+export type AiRequestDto = {
+    prompt?: string | null;
+};
+
+export type AiResponseDto = {
+    id?: number;
+    response?: string | null;
+};
+
+export type PostApiAiAskData = {
+    body?: AiRequestDto;
+    path?: never;
+    query?: never;
+    url: '/api/AI/ask';
+};
+
+export type PostApiAiAskResponses = {
+    /**
+     * OK
+     */
+    200: AiResponseDto;
+};
+
+export type PostApiAiAskResponse = PostApiAiAskResponses[keyof PostApiAiAskResponses];
+
 export type GetApiHomeData = {
     body?: never;
     path?: never;

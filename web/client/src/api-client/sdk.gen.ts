@@ -2,7 +2,7 @@
 
 import type { Client, Options as Options2, TDataShape } from './client';
 import { client } from './client.gen';
-import type { GetApiHomeData, GetApiHomeResponses } from './types.gen';
+import type { GetApiHomeData, GetApiHomeResponses, PostApiAiAskData, PostApiAiAskResponses } from './types.gen';
 
 export type Options<TData extends TDataShape = TDataShape, ThrowOnError extends boolean = boolean> = Options2<TData, ThrowOnError> & {
     /**
@@ -16,6 +16,17 @@ export type Options<TData extends TDataShape = TDataShape, ThrowOnError extends 
      * used to access values that aren't defined as part of the SDK function.
      */
     meta?: Record<string, unknown>;
+};
+
+export const postApiAiAsk = <ThrowOnError extends boolean = false>(options?: Options<PostApiAiAskData, ThrowOnError>) => {
+    return (options?.client ?? client).post<PostApiAiAskResponses, unknown, ThrowOnError>({
+        url: '/api/AI/ask',
+        ...options,
+        headers: {
+            'Content-Type': 'application/json',
+            ...options?.headers
+        }
+    });
 };
 
 export const getApiHome = <ThrowOnError extends boolean = false>(options?: Options<GetApiHomeData, ThrowOnError>) => {
