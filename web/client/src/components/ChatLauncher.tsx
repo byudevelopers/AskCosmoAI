@@ -1,4 +1,5 @@
-import "./ChatLauncher.css";
+import { Fab } from "@mui/material";
+import { Chat as ChatIcon } from "@mui/icons-material";
 
 type ChatLauncherProps = {
   onOpen: () => void;
@@ -6,15 +7,23 @@ type ChatLauncherProps = {
 
 function ChatLauncher({ onOpen }: ChatLauncherProps) {
   return (
-    <button
-      type="button"
-      className="chat-launcher"
+    <Fab
+      color="primary"
       onClick={onOpen}
       aria-label="Open AskCosmo AI chat"
-      id="chat"
+      sx={{
+        position: "fixed",
+        bottom: 24,
+        right: 24,
+        zIndex: 1000,
+        "&:hover": {
+          transform: "scale(1.1)",
+        },
+        transition: "transform 0.2s ease-in-out",
+      }}
     >
-      <span aria-hidden="true">💬</span>
-    </button>
+      <ChatIcon />
+    </Fab>
   );
 }
 
