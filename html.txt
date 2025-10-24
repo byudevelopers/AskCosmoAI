@@ -132,15 +132,15 @@
     </style>
     
 
-    <meta property="og:title" content="2025 Calendar List View">  <----------------------------\
+    <meta property="og:title" content="2025 Calendar List View">
 
-    <meta property="og:url" content="https://academiccalendar.byu.edu/2025-calendar-list-view">  <----------------------------
+    <meta property="og:url" content="https://academiccalendar.byu.edu/2025-calendar-list-view">
 
 
 
     <meta property="og:description" content="January 1, 2025 New Years Day January 6, 2025 New Student Orientation January 7, 2025 New Student Orientation January 8, 2025 Start of Classes January 15, 2025 Add/Drop Deadline (Full Semester &amp; 1st Term) January 20, 2025 Martin Luther King Jr Day February 12, 2025 1st Term Withdraw Deadline…">
 
-    <meta property="og:site_name" content="Academic Calendar">   <----------------------------
+    <meta property="og:site_name" content="Academic Calendar">
 
 
 
@@ -157,7 +157,7 @@
     
     
     <meta name="twitter:description" content="January 1, 2025 New Years Day January 6, 2025 New Student Orientation January 7, 2025 New Student Orientation January 8, 2025 Start of Classes January 15, 2025 Add/Drop Deadline (Full Semester &amp; 1st Term) January 20, 2025 Martin Luther King Jr Day February 12, 2025 1st Term Withdraw Deadline February 17, 2025 Presidents&#x27; Day February 18, 2025 Monday Instruction February 26, 2025 Last Day of 1st Term February 27, 2025 First Day of 2nd Term March 6, 2025 2nd Term Add/Drop Deadline March 21, 2025 No Classes April 3, 2025 Withdraw Deadline (Full Semester &amp; 2nd Term) April 16, 2025 Last Day of Class April 17, 2025 Exam Preparation Day Apr 18 to Apr 23, 2025 Final Exam Day April 24, 2025 Commencement Apr 24 to Apr 25, 2025 Convocations April 28, 2025 New Student Orientation April 29, 2025 Winter Semester Grades Due April 29, 2025 Start of Classes (1st day) May 1, 2025 Winter Semester Grades Online May 6, 2025 Add/Drop Deadline (Full Semester &amp; 1st Term) May 26, 2025 Memorial Day June 3, 2025 Spring Term Withdraw Deadline June 16, 2025 Last Day of Class June 16, 2025 Withdraw Deadline (Full Semester) June 17, 2025 Exam Preparation Day June 18, 2025 Final Exam Day June 19, 2025 Juneteenth June 20, 2025 Final Exam Day June 21, 2025 New Student Orientation June 23, 2025 Start of Classes (1st day) June 26, 2025 Spring Term Grades Due June 30, 2025 Add/Drop Deadline (Full Semester &amp; 1st Term) June 30, 2025 Spring Term Grades Online July 4, 2025 Independence Day July 24, 2025 Pioneer Day July 29, 2025 Summer Term Withdraw Deadline August 11, 2025 Last Day of Class August 12, 2025 Exam Preparation Day Aug 13 to Aug 14, 2025 Final Exam Day Aug 18 to Aug 22, 2025 Education Week August 20, 2025 Summer Term Grades Due August 22, 2025 Summer Term Grades Online Aug 25 to Aug 27, 2025 University Conference Aug 28 to Aug 29, 2025 New Student Orientation September 1, 2025 Labor Day September 2, 2025 New Student Orientation September 3, 2025 Start of Classes September 10, 2025 Add/Drop Deadline (Full Semester &amp; 1st Term) October 7, 2025 1st Term Withdraw Deadline October 20, 2025 Last Day of 1st Term October 21, 2025 First Day of 2nd Term October 28, 2025 2nd Term Add/Drop Deadline November 24, 2025 Withdraw Deadline (Full Semester &amp; 2nd Term) November 26, 2025 No Classes November 27, 2025 Thanksgiving November 28, 2025 Thanksgiving Holiday December 10, 2025 Last Day of Class December 11, 2025 Exam Preparation Day Dec 12 to Dec 17, 2025 Final Exam Day December 23, 2025 Fall Semester Grades Due December 24, 2025 Christmas Eve Holiday December 25, 2025 Christmas Day Holiday December 29, 2025 Fall Semester Grades Online December 31, 2025 New Year&#x27;s Eve Holiday"/>
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    
     
 
     
