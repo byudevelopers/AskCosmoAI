@@ -16,3 +16,13 @@ an AI Chat Bot that will answer all your questions related to BYU!
 ## Scraping ##
 Our starting goal is to scrape this single webpage:
 <https://academiccalendar.byu.edu/2025-calendar-list-view>
+
+## Running the Backend
+Before you run the backend, make sure you have dotnet 9 installed on your machine. Go into the web/api directory and run the following command `dotnet tool restore`
+
+To start the backend, run `dotnet run`
+
+## Running the Frontend
+Make sure you have NPM installed. The first time you run the frontend, first run `npm i`
+
+To start the frontend, run `npm run dev`
