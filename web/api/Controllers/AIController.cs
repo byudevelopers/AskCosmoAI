@@ -1,8 +1,8 @@
 using api.Models.DTO;
 using api.services;
 using Microsoft.AspNetCore.Mvc;
-namespace api.Controllers;
 
+namespace api.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
