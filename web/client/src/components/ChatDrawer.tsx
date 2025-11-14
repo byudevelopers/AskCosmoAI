@@ -7,13 +7,14 @@ import {
   Button,
   Paper,
   Avatar,
+  Grid,
 } from "@mui/material";
 import {
   Close as CloseIcon,
   Send as SendIcon,
   SmartToy as BotIcon,
 } from "@mui/icons-material";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { postApiAiAsk } from "../api-client";
 
 type ChatDrawerProps = {
@@ -21,21 +22,41 @@ type ChatDrawerProps = {
   onClose: () => void;
 };
 
+interface ChatHistory {
+  prompt?: string;
+  response: string;
+}
+
 function ChatDrawer({ open, onClose }: ChatDrawerProps) {
-  const [message, setMessage] = useState("");
-  const [responseHistory, setResponseHistory] = useState([
-    "Hi there! I'm Cosmo. How can I help you make the most of yourday on campus?",
+  const [prompt, setPrompt] = useState("");
+  const [responseHistory, setResponseHistory] = useState<ChatHistory[]>([
+    {
+      response:
+        "Hi there! I'm Cosmo. How can I help you make the most of yourday on campus?",
+    },
   ]);
+  const messagesEndRef = useRef<HTMLDivElement | null>(null);
 
   const handleSendMessage = () => {
-    if (message.trim()) {
-      postApiAiAsk({ body: { prompt: message } }).then((res) => {
+    if (prompt.trim()) {
+      postApiAiAsk({ body: { prompt: prompt } }).then((res) => {
         const textResponse = res.data?.response;
         setResponseHistory((prev) => {
           if (!textResponse) return prev;
-          return [...prev, textResponse];
+          return [
+            ...prev,
+            {
+              prompt: prompt,
+              response: textResponse,
+            },
+          ];
         });
-        setMessage("");
+        setPrompt("");
+        setTimeout(() => {
+          if (messagesEndRef.current) {
+            messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
+          }
+        }, 100);
       });
     }
   };
@@ -117,21 +138,56 @@ function ChatDrawer({ open, onClose }: ChatDrawerProps) {
           </Box>
 
           {/* Chat messages */}
-          <Box sx={{ flexGrow: 1 }}>
+          <Box
+            sx={{
+              flexGrow: 1,
+              overflowY: "scroll",
+            }}
+          >
             {responseHistory.map((aiResponse, index) => (
-              <Box key={index} sx={{ p: 2, overflow: "auto" }}>
-                <Paper
-                  sx={{
-                    p: 2,
-                    backgroundColor: "primary.light",
-                    color: "primary.contrastText",
-                    maxWidth: "80%",
-                  }}
-                >
-                  <Typography variant="body1">{aiResponse}</Typography>
-                </Paper>
-              </Box>
+              <Grid key={index} sx={{ my: 4 }}>
+                {aiResponse.prompt && (
+                  <Box
+                    key={index}
+                    sx={{
+                      mx: 2,
+                      mb: 1,
+                      overflow: "auto",
+                      display: "flex",
+                      justifyContent: "end",
+                    }}
+                  >
+                    <Paper
+                      sx={{
+                        p: 2,
+                        backgroundColor: "primary.dark",
+                        color: "primary.contrastText",
+                        maxWidth: "80%",
+                      }}
+                    >
+                      <Typography variant="body1">
+                        {aiResponse.prompt}
+                      </Typography>
+                    </Paper>
+                  </Box>
+                )}
+                <Box sx={{ mx: 2, overflow: "auto" }}>
+                  <Paper
+                    sx={{
+                      p: 2,
+                      backgroundColor: "primary.light",
+                      color: "primary.contrastText",
+                      maxWidth: "80%",
+                    }}
+                  >
+                    <Typography variant="body1">
+                      {aiResponse.response}
+                    </Typography>
+                  </Paper>
+                </Box>
+              </Grid>
             ))}
+            <div ref={messagesEndRef} />
           </Box>
 
           {/* Message input */}
@@ -142,8 +198,8 @@ function ChatDrawer({ open, onClose }: ChatDrawerProps) {
                 multiline
                 maxRows={4}
                 placeholder="Type your question…"
-                value={message}
-                onChange={(e) => setMessage(e.target.value)}
+                value={prompt}
+                onChange={(e) => setPrompt(e.target.value)}
                 onKeyDown={handleKeyDown}
                 variant="outlined"
                 size="small"
@@ -151,7 +207,7 @@ function ChatDrawer({ open, onClose }: ChatDrawerProps) {
               <Button
                 variant="contained"
                 onClick={handleSendMessage}
-                disabled={!message.trim()}
+                disabled={!prompt.trim()}
                 sx={{ minWidth: "auto", px: 2 }}
               >
                 <SendIcon />
