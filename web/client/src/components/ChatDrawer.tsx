@@ -14,6 +14,7 @@ import {
   SmartToy as BotIcon,
 } from "@mui/icons-material";
 import { useState } from "react";
+import { postApiAiAsk } from "../api-client";
 
 type ChatDrawerProps = {
   open: boolean;
@@ -22,12 +23,20 @@ type ChatDrawerProps = {
 
 function ChatDrawer({ open, onClose }: ChatDrawerProps) {
   const [message, setMessage] = useState("");
+  const [responseHistory, setResponseHistory] = useState([
+    "Hi there! I'm Cosmo. How can I help you make the most of yourday on campus?",
+  ]);
 
   const handleSendMessage = () => {
     if (message.trim()) {
-      // TODO: Implement message sending logic
-      console.log("Sending message:", message);
-      setMessage("");
+      postApiAiAsk({ body: { prompt: message } }).then((res) => {
+        const textResponse = res.data?.response;
+        setResponseHistory((prev) => {
+          if (!textResponse) return prev;
+          return [...prev, textResponse];
+        });
+        setMessage("");
+      });
     }
   };
 
@@ -108,21 +117,21 @@ function ChatDrawer({ open, onClose }: ChatDrawerProps) {
           </Box>
 
           {/* Chat messages */}
-          <Box sx={{ flexGrow: 1, p: 2, overflow: "auto" }}>
-            <Paper
-              sx={{
-                p: 2,
-                mb: 2,
-                backgroundColor: "primary.light",
-                color: "primary.contrastText",
-                maxWidth: "80%",
-              }}
-            >
-              <Typography variant="body1">
-                Hi there! I'm Cosmo. How can I help you make the most of your
-                day on campus?
-              </Typography>
-            </Paper>
+          <Box sx={{ flexGrow: 1 }}>
+            {responseHistory.map((aiResponse, index) => (
+              <Box key={index} sx={{ p: 2, overflow: "auto" }}>
+                <Paper
+                  sx={{
+                    p: 2,
+                    backgroundColor: "primary.light",
+                    color: "primary.contrastText",
+                    maxWidth: "80%",
+                  }}
+                >
+                  <Typography variant="body1">{aiResponse}</Typography>
+                </Paper>
+              </Box>
+            ))}
           </Box>
 
           {/* Message input */}
