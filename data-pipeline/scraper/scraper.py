@@ -20,8 +20,6 @@ def scrape_page(url: str) -> Dict[str, Any]:
         Dictionary with extracted text content
     """
 
-    
-    
     print(f"Scraping: {url}")
     
     # Step 1: Render the page with Playwright (handles JavaScript)
@@ -127,99 +125,125 @@ def scrape_multiple_pages(urls: List[str]) -> List[Dict[str, Any]]:
     
     return results
 
-def extract_structured_content(elements):
-    """Extract content with relationships preserved."""
+"""COMMENTED BELOW IS NOT WORKING. IGNORE FOR NOW"""
+# def extract_structured_content(elements):
+#     """Extract content with relationships preserved."""
     
-    # 1. Render and parse (your existing code)
+#     # 1. Render and parse (your existing code)
     
-    # 2. Group by sections
-    sections = []
-    current_section = {'heading': None, 'content': []}
+#     # 2. Group by sections
+#     sections = []
+#     current_section = {'heading': None, 'content': []}
     
-    for element in elements:
-        text = element.text.strip()
-        if not text or len(text) < 15:
-            continue
+#     for element in elements:
+#         text = element.text.strip()
+#         if not text or len(text) < 15:
+#             continue
         
-        if element.category == "Title":
-            # Save previous section
-            if current_section['content']:
-                sections.append(current_section)
-            # Start new section
-            current_section = {
-                'heading': text,
-                'content': []
-            }
-        else:
-            # Detect special patterns
-            content_item = {'text': text, 'type': element.category}
+#         if element.category == "Title":
+#             # Save previous section
+#             if current_section['content']:
+#                 sections.append(current_section)
+#             # Start new section
+#             current_section = {
+#                 'heading': text,
+#                 'content': []
+#             }
+#         else:
+#             # Detect special patterns
+#             content_item = {'text': text, 'type': element.category}
             
-            # Check if it's a date list
-            if re.search(r'[A-Z][a-z]+\s+\d{1,2},\s+\d{4}', text):
-                dates = parse_calendar_dates(text)
-                if dates:
-                    content_item['parsed_dates'] = dates
+#             # Check if it's a date list
+#             if re.search(r'[A-Z][a-z]+\s+\d{1,2},\s+\d{4}', text):
+#                 dates = parse_calendar_dates(text)
+#                 if dates:
+#                     content_item['parsed_dates'] = dates
             
-            current_section['content'].append(content_item)
+#             current_section['content'].append(content_item)
     
-    # Don't forget last section
-    if current_section['content']:
-        sections.append(current_section)
+#     # Don't forget last section
+#     if current_section['content']:
+#         sections.append(current_section)
     
-    return sections
+#     return sections
 
-if __name__ == "__main__":
-    # Test with a single URL
-    test_url = "https://clubs.byu.edu/link/club/18295873486205634"
-    #test_url = "https://access.byu.edu/learning-disabilities" <--- doesn't work because all body text is hidden and has to be manually revealed :/
-    #test_url = "https://enrollment.byu.edu/admissions/act-sat-test-scores"
-    #test_url = "https://academiccalendar.byu.edu/2025-calendar-list-view"
-    #test_url = "https://conferences.byu.edu/home"
-    #test_url = "https://cougarcash.byu.edu"
+def get_scraped_data(url):
     try:
-        result, elements = scrape_page(test_url)
+        result, elements = scrape_page(url)
+        print("[DEBUG] DONE SCRAPING")
+        print(type(result)) #dict
+        print(type(elements)) #list
         
-        print("\n" + "="*60)
-        print("EXTRACTED CONTENT")
-        print("="*60)
-        
-        # Show element breakdown
-        element_types = {}
-        for item in result['elements']:
-            elem_type = item['type']
-            element_types[elem_type] = element_types.get(elem_type, 0) + 1
-        
-        print(f"\nElement breakdown:")
-        for elem_type, count in element_types.items():
-            print(f"  {elem_type}: {count}")
-        
-        # Show first few elements
-        print(f"\nFirst 5 elements:")
-        for i, item in enumerate(result['elements'][:5], 1):
-            print(f"\n{i}. [{item['type']}]")
-            print(f"   {item['text'][:200]}{'...' if len(item['text']) > 200 else ''}")
-        
-        # Show full text preview
-        print(f"\n{'='*60}")
-        print("FULL TEXT PREVIEW (first 1000 chars)")
-        print("="*60)
-        print(result['full_text'][:1000])
-        
-        # Save to file
-        output_file = "scraped_content.txt"
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(f"URL: {result['url']}\n")
-            f.write(f"Total elements: {result['total_elements']}\n")
-            f.write("="*60 + "\n\n")
-            f.write(result['full_text'])
-        
-        print(f"\n✓ Full content saved to: {output_file}")
+        return result
 
-        #my code
-        sections = extract_structured_content(elements)
-        print(sections)
-        with open("scraped_data.json", 'a') as f:
-            json.dump(sections, f, indent=2)
+    except Exception as e:
+        print(f"\n✗ Error: {e}")
+        import traceback
+        traceback.print_exc()
+
+        return None
+
+
+# if __name__ == "__main__":
+#     # Test with a single URL
+#     url = "https://clubs.byu.edu/link/club/18295873486205634"
+#     #test_url = "https://access.byu.edu/learning-disabilities" <--- doesn't work because all body text is hidden and has to be manually revealed :/
+#     #test_url = "https://enrollment.byu.edu/admissions/act-sat-test-scores"
+#     #test_url = "https://academiccalendar.byu.edu/2025-calendar-list-view"
+#     #test_url = "https://conferences.byu.edu/home"
+#     #test_url = "https://cougarcash.byu.edu"
+#     try:
+#         result, elements = scrape_page(url)
+#         print("[DEBUG] DONE SCRAPING")
+#         print(type(result)) #dict
+#         print(type(elements)) #list
+        
+#         output_file = "scraped_result.json"
+#         with open(output_file, 'w', encoding='utf-8') as f:
+#             json.dump(result, f, indent=2, ensure_ascii=False)
+
+#         """IGNORE BELOW. MOSTLY FOR PRINTING SCRAPED DATA"""
+        # print("\n" + "="*60)
+        # print("EXTRACTED CONTENT")
+        # print("="*60)
+        
+        # # Show element breakdown
+        # element_types = {}
+        # for item in result['elements']:
+        #     elem_type = item['type']
+        #     element_types[elem_type] = element_types.get(elem_type, 0) + 1
+        
+        # print(f"\nElement breakdown:")
+        # for elem_type, count in element_types.items():
+        #     print(f"  {elem_type}: {count}")
+        
+        # # Show first few elements
+        # print(f"\nFirst 5 elements:")
+        # for i, item in enumerate(result['elements'][:5], 1):
+        #     print(f"\n{i}. [{item['type']}]")
+        #     print(f"   {item['text'][:200]}{'...' if len(item['text']) > 200 else ''}")
+        
+        # # Show full text preview
+        # print(f"\n{'='*60}")
+        # print("FULL TEXT PREVIEW (first 1000 chars)")
+        # print("="*60)
+        # print(result['full_text'][:1000])
+        
+        # # Save to file
+        # output_file = "scraped_content.txt"
+        # with open(output_file, 'w', encoding='utf-8') as f:
+        #     f.write(f"URL: {result['url']}\n")
+        #     f.write(f"Total elements: {result['total_elements']}\n")
+        #     f.write("="*60 + "\n\n")
+        #     f.write(result['full_text'])
+        
+        # print(f"\n✓ Full content saved to: {output_file}")
+
+        # #my code
+        # sections = extract_structured_content(elements)
+        # print(sections)
+        # with open("scraped_data.json", 'a') as f:
+        #     json.dump(sections, f, indent=2)
         
     except Exception as e:
         print(f"\n✗ Error: {e}")
