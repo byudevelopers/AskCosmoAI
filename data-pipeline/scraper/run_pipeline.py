@@ -10,7 +10,7 @@ def load_urls_from_crawler() -> List[str]:
     Returns:
         A list of URLs extracted from the JSON file.
     """
-    crawler_output = Path("../crawler/out/link_counts.json")  # relative path
+    crawler_output = Path("../../crawler/Webcrawler/byucrawl/out/link_counts.json")  # relative path
 
     if not crawler_output.exists():
         raise FileNotFoundError("Could not find crawler output at ../crawler/out/link_counts.json")
@@ -58,4 +58,25 @@ def process_urls(urls: List[str]) -> List[Dict[str, Any]]:
     return results
 
 
-def save_pipeline_output(results: List[Di]()
+def save_pipeline_output(results: List[Dict[str, Any]]) -> None:
+    """
+    Save the list of scraped page results to a JSON file.
+
+    Args:
+        results: List of dictionaries describing each scraped page.
+    """
+
+    output_path = Path("scraped_pages.json")
+
+    # Write all results into a single JSON file #
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
+
+    print(f"\n✓ Saved {len(results)} scraped records to {output_path}")
+
+
+
+if __name__ == "__main__":
+    urls = load_urls_from_crawler()
+    results = process_urls(urls)
+    save_pipeline_output(results)
