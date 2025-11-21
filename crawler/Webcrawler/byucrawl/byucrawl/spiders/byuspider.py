@@ -10,7 +10,7 @@ from scrapy.linkextractors import LinkExtractor
 class ByuSpider(scrapy.Spider):
     name = "byuspider"  # <- this is the name you'll use with `scrapy crawl`
     allowed_domains = ["byu.edu"]
-    start_urls = ["https://www.byu.edu/a-z-index"]
+    start_urls = ["https://www.byu.edu/a-z-index"] #this is link the crawler will start from
 
     custom_settings = {
         "ROBOTSTXT_OBEY": True,
@@ -51,6 +51,12 @@ class ByuSpider(scrapy.Spider):
         return spider
 
     def parse(self, response):
+    host = urlparse(response.url).hostname or ""
+    if host == "cas.byu.edu" or host.endswith(".cas.byu.edu"):
+    # Don't count it and don't follow links from it
+    return
+
+    self.counts[response.url] += 1
         self.counts[response.url] += 1
         for link in self.extractor.extract_links(response):
             url = link.url
