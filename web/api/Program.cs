@@ -1,11 +1,20 @@
 using api.services;
+using OpenAI;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var apiKey = builder.Configuration["OPENAI_API_KEY"];
+
+if (string.IsNullOrWhiteSpace(apiKey))
+{
+    throw new InvalidOperationException("No OpenAI API key found");
+}
+var chatClient = new OpenAIClient(apiKey).GetChatClient("gpt-5-nano");
+
+builder.Services.AddSingleton(chatClient);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<IAIService, MockAIService>();
+builder.Services.AddScoped<IAIService, AIService>();
 
 builder.Services.AddCors(options =>
 {
@@ -22,8 +31,6 @@ var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
     app.UseCors("dev");
 }
 else

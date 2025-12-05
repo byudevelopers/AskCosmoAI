@@ -32,7 +32,7 @@ function ChatDrawer({ open, onClose }: ChatDrawerProps) {
   const [responseHistory, setResponseHistory] = useState<ChatHistory[]>([
     {
       response:
-        "Hi there! I'm Cosmo. How can I help you make the most of yourday on campus?",
+        "Hi there! I'm Cosmo. How can I help you make the most of your day on campus?",
     },
   ]);
   const messagesEndRef = useRef<HTMLDivElement | null>(null);
