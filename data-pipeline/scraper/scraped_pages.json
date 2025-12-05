@@ -1,0 +1,905 @@
+[
+  {
+    "url": "https://www.byu.edu/a-z-index",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://www.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://www.byu.edu/search-all",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://www.byu.edu/about",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://www.byu.edu/admissions",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://www.byu.edu/academics",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://advisement.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://academiccalendar.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://www.byu.edu/faith-and-education",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://www.byu.edu/colleges-and-departments",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://policy.byu.edu/view/academic-freedom-policy",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://aso.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://enrollment.byu.edu/admissions",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://staffac.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://avp.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://alumni.byu.edu/find-your-chapter-regional",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://marriott.byu.edu/afrotcdet855/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://anthropology.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://alumnicareers.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://americanheritage.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://art.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://asianneareastern.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://enrollment.byu.edu/apply-now",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://pam.byu.edu/performance-groups/ballroom-dance-company/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://bgs.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://kennedy.byu.edu/american-studies",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://biology.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://studio1030.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://dining.byu.edu/creamery-on-ninth",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://infosec.byu.edu/besafe",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://byudiscounts.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://dining.byu.edu/foodtogo/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://slc.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://familyhistory.lib.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://byustudies.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://today.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://dining.byu.edu/cannon-commons",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://sccr.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://scheduling.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://cpcr.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://dining.byu.edu/catering/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://careers.byu.edu/employers/fairs-and-events",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://sclcenter.byu.edu/byusa",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://careers.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://yserve.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://familyhistory.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://risk.byu.edu/ehs/environmental/chemical-storage-and-compatibility",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://clubs.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://chemicalengineering.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://hum.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://reddcenter.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://lifesciences.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://nursing.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://cpms.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://science.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://education.byu.edu/comd",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://comprehensiveclinic.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://lib.byu.edu/services/software-training/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://oit.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://concertchoir.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://cce.byu.edu/construction-management-major-information",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://copyright.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://is.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://kennedy.byu.edu/culturegrams",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://conferences.byu.edu/home",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://deanofstudents.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://dance.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://history.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://universe.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://ppa.byu.edu/dentistry-at-byu",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://tma.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://designdept.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://hrs.byu.edu/?q=directory/eeo/discrimination",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://multicultural.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://engineering.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://ems.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://careers.byu.edu/students/engineering",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://economics.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://edweek.ce.byu.edu/home",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://universitywriting.byu.edu",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://elc.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://extramuralsports.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://efy.byu.edu/home",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://lambda.byu.edu/ae/prod/person/cgi/personLookup.cgi?showEmpStd=E",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://eveningclasses.ce.byu.edu/home",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://facultycenter.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://fac.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://familystudiescenter.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://cce.byu.edu/facilities-and-property-management",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://fhsswriting.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://fwa.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://fatherwork.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://mft.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://foreverfamilies.byu.edu",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://fi.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://studentwellness.byu.edu/open-play",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://fye.byu.edu/mentoring",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://rc.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://ogc.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://bowling.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://geology.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://marriott.byu.edu/gbc/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://ge.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://geography.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://ugrad.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://enrollment.byu.edu/registrar/graduation",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://gradstudies.byu.edu/graduate-student-society",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://gerontology.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://housing.byu.edu/secure/services/c_housing_areas/HelamanInfo.aspx?age=18-",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://lib.byu.edu/about/faculty-guide/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://housing.byu.edu/secure/services/c_housing_areas/HeritageInfo.aspx?age=19+",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://health.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://lawlibrary.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://idcenter.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://cfhg.byu.edu/immigrant-ancestors-project-update",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://iss.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "http://law.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://assessmentandplanning.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://kennedy.byu.edu/isp/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://law.byu.edu/career-development",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://ivp.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://learningoutcomes.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://dining.byu.edu/legends-grille",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://ic.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://jerusalemcenter.ce.byu.edu/home",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://digitalcommons.law.byu.edu/lawreview/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://timplodge.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://ling.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  },
+  {
+    "url": "https://brand.byu.edu/",
+    "error": "BrowserType.launch: Executable doesn't exist at /Users/shailibradshaw/Library/Caches/ms-playwright/chromium_headless_shell-1194/chrome-mac/headless_shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝",
+    "elements": [],
+    "full_text": "",
+    "total_elements": 0
+  }
+]
